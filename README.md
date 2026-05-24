@@ -1,12 +1,8 @@
-# Rowan Chen
+# Hi there 👋, I'm Rowan Chen
 
-Design · Development · AI
+Designer and developer working at the intersection of graphic design, UX/UI, and the web.
 
-Focused on graphic design, UX/UI, and web development — exploring the balance between aesthetics and engineering.
-
-[rowanchen.com](https://www.rowanchen.com) · [hi@rowanchen.com](mailto:hi@rowanchen.com) · [Blog](https://www.qmye.com)
-
----
+<hr style="border: none; border-top: 1px solid rgba(127,127,127,0.2); margin: 24px 0;">
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=156078944" target="_blank" style="display: block" align="center">
   <picture>
