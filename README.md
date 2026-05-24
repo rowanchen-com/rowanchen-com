@@ -2,7 +2,7 @@
 
 Designer and developer working at the intersection of graphic design, UX/UI, and the web.
 
-<hr style="border: none; border-top: 1px solid rgba(127,127,127,0.2); margin: 24px 0;">
+<br />
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=156078944" target="_blank" style="display: block" align="center">
   <picture>
